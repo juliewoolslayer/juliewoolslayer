@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juliewoolslayer
 - 👀 I’m interested in becoming a Data Analyst or Business Analyst
-- 🌱 I’m currently learning Power BI, Python, Tableau, Excel, Access, SQL
-- 💞️ I’m looking to collaborate on Data Analytics project to gain experience
+- 🌱 Proficient in Power BI, Python, Tableau, Excel, Access, SQL
+- 💞️ Currently Learning Azure
 - 📫 How to reach me juliewoolslayer@yahoo.com
 
 <!---
